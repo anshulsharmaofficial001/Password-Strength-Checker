@@ -55,7 +55,6 @@ Experience in building a simple cyber security tool
 
 This project is created for educational purposes only to learn cyber security fundamentals.
 
-👨‍💻 Author
+👨‍💻 Anshul Sharma
 
-Anshul Sharma 
 BCA Student | Cyber Security Enthusiast
