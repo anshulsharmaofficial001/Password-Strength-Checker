@@ -34,7 +34,7 @@ This project helps in understanding basic password security concepts used in rea
 
 ```bash
 python password_strength_checker.py
-
+```
 
 Enter your password: Abc@1234
 Strong Password ✅
